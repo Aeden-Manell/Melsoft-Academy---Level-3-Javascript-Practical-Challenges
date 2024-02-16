@@ -1,6 +1,6 @@
 # Melsoft Academy Level 3 Javascript Practical Challenges
 
-Welcome to the Melsoft Academy Level 3 Javascript Practical Challenges repository! This repository contains a collection of practical challenges designed to help you improve your Javascript skills and gain hands-on experience with various concepts.
+Welcome to the Melsoft Academy Level 3 Javascript Practical Challenges repository! 
 
 ## Challenges
 
