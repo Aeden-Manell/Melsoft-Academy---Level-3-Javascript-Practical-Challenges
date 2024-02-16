@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: cursive;
+  box-sizing: border-box;
+}
+
+.todo-div {
+  padding: 40px;
+  border-radius: 30px;
+  margin: 100px auto 0;
+  border: 3px solid #a0785a;
+  max-width: 700px;
+  width: 100%;
+  background-color: #a0785a;
+}
+
+.todo-div h1 {
+  font-weight: 30px;
+  color: #ffffff;
+  font-weight: 700;
+  border-bottom: 3px solid #ffffff63;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+.tasklist-div {
+  padding-top: 40px;
+}
+
+.todo-div h2 {
+  font-weight: 30px;
+  color: #ffffff;
+  font-weight: 700;
+  padding-bottom: 30px;
+  text-align: center;
+  font-size: 30px;
+}
+
+#taskList  {
+  color: #000000;
+  font-weight: 500;
+  width: 100%;
+  border: 2px solid #ffffff4c;
+  margin: 20px;
+  padding: 66px;
+  text-align: left;
+  border-radius: 8px;
+  font-size: 19px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+input {
+  background-color: rgb(255, 255, 255);
+  color: #000000;
+  font-weight: 500;
+  width: 100%;
+  border: 2px solid #ffffff4c;
+  padding: 10px;
+  padding-left: 15 px;
+  margin: 10px 0;
+  text-align: left;
+  border-radius: 8px;
+  font-size: 19px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+button {
+  background-color: rgba(255, 255, 255, 0);
+  color: #ffffff;
+  font-weight: 500;
+  width: 100%;
+  border: 2px solid #ffffff4c;
+  padding: 10px;
+  padding-left: 15 px;
+  margin: 10px 0;
+  text-align: left;
+  border-radius: 8px;
+  font-size: 19px;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+button:hover {
+  background-color: #ffffff46;
+  color: #ffffff;
+  font-size: 23px;
+  border: 1px solid #ffffff1e;
+}
